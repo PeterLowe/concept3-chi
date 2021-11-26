@@ -1,0 +1,8 @@
+CATCH GAME
+
+Introduction 
+catch virus
+
+Background
+player is a disinfection staff who work in a hospital, 
+he need to catch all virus to keep the place clean
