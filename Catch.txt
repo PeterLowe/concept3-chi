@@ -6,3 +6,7 @@ catch virus
 Background
 player is a disinfection staff who work in a hospital, 
 he need to catch all virus to keep the place clean
+
+Description 
+player needs to catch different color of virus
+and let the fresh air go out
